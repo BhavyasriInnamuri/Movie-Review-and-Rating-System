@@ -1,0 +1,13 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/MovieReviewSystem/public/index.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/MovieReviewSystem/public/$1"
+    }
+  ]
+}
