@@ -1,0 +1,21 @@
+# Compiled Java class files
+*.class
+MovieReviewSystem/out/
+out/
+bin/
+
+# IDE and Editor configurations
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
